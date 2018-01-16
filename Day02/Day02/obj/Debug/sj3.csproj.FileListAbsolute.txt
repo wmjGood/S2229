@@ -1,0 +1,10 @@
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day02\Day02\bin\Debug\Day02.exe.config
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day02\Day02\bin\Debug\Day02.exe
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day02\Day02\bin\Debug\Day02.pdb
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day02\Day02\obj\Debug\sj3.csprojResolveAssemblyReference.cache
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day02\Day02\obj\Debug\Day02.frmMain.resources
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day02\Day02\obj\Debug\Day02.Properties.Resources.resources
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day02\Day02\obj\Debug\sj3.csproj.GenerateResource.Cache
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day02\Day02\obj\Debug\Day02.exe
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day02\Day02\obj\Debug\Day02.pdb
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day02\Day02\obj\Debug\Day02.FrmSelect.resources

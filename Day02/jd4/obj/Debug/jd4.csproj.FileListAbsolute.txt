@@ -1,0 +1,6 @@
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day02\jd4\bin\Debug\jd4.exe.config
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day02\jd4\obj\Debug\jd4.csprojResolveAssemblyReference.cache
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day02\jd4\bin\Debug\jd4.exe
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day02\jd4\bin\Debug\jd4.pdb
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day02\jd4\obj\Debug\jd4.exe
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day02\jd4\obj\Debug\jd4.pdb
