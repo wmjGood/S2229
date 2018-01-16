@@ -1,0 +1,9 @@
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\Sj4\bin\Debug\Sj4.exe.config
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\Sj4\bin\Debug\Sj4.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\Sj4\bin\Debug\Sj4.pdb
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\Sj4\obj\Debug\Sj4.FrmMain.resources
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\Sj4\obj\Debug\Sj4.Properties.Resources.resources
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\Sj4\obj\Debug\Sj4.csproj.GenerateResource.Cache
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\Sj4\obj\Debug\Sj4.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\Sj4\obj\Debug\Sj4.pdb
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\Sj4\obj\Debug\Sj4.csprojResolveAssemblyReference.cache

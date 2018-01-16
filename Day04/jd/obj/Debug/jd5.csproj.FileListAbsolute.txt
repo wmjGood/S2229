@@ -1,0 +1,5 @@
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day04\jd\bin\Debug\jd.exe.config
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day04\jd\bin\Debug\jd.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day04\jd\bin\Debug\jd.pdb
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day04\jd\obj\Debug\jd.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day04\jd\obj\Debug\jd.pdb

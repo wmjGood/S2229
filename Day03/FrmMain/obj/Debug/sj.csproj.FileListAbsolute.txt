@@ -1,0 +1,11 @@
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\bin\Debug\FrmMain.exe.config
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\bin\Debug\FrmMain.exe
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\bin\Debug\FrmMain.pdb
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\obj\Debug\sj.csprojResolveAssemblyReference.cache
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\obj\Debug\FrmMain.FrmMain.resources
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\obj\Debug\FrmMain.Properties.Resources.resources
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\obj\Debug\sj.csproj.GenerateResource.Cache
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\obj\Debug\FrmMain.exe
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\obj\Debug\FrmMain.pdb
+c:\users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\obj\Debug\FrmMain.FrmAdd.resources
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day03\FrmMain\obj\Debug\FrmMain.FrmRecord.resources

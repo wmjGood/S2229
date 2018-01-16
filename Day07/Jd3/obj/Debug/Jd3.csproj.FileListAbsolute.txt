@@ -1,0 +1,5 @@
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Jd3\bin\Debug\Jd3.exe.config
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Jd3\bin\Debug\Jd3.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Jd3\bin\Debug\Jd3.pdb
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Jd3\obj\Debug\Jd3.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Jd3\obj\Debug\Jd3.pdb

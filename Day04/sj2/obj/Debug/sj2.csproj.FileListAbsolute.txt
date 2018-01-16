@@ -1,0 +1,6 @@
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day04\sj2\bin\Debug\sj2.exe.config
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day04\sj2\bin\Debug\sj2.exe
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day04\sj2\bin\Debug\sj2.pdb
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day04\sj2\obj\Debug\sj2.csprojResolveAssemblyReference.cache
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day04\sj2\obj\Debug\sj2.exe
+C:\Users\wumengjie\documents\visual studio 2012\Projects\Day04\sj2\obj\Debug\sj2.pdb

@@ -1,0 +1,5 @@
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Jd5\bin\Debug\Jd5.exe.config
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Jd5\bin\Debug\Jd5.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Jd5\bin\Debug\Jd5.pdb
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Jd5\obj\Debug\Jd5.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Jd5\obj\Debug\Jd5.pdb

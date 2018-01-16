@@ -1,0 +1,5 @@
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj4\bin\Debug\Sj4.exe.config
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj4\bin\Debug\Sj4.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj4\bin\Debug\Sj4.pdb
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj4\obj\Debug\Sj4.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj4\obj\Debug\Sj4.pdb

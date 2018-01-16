@@ -1,0 +1,10 @@
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj1\bin\Debug\Sj1.exe.config
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj1\bin\Debug\Sj1.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj1\bin\Debug\Sj1.pdb
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj1\obj\Debug\Sj1.csprojResolveAssemblyReference.cache
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj1\obj\Debug\Sj1.Form1.resources
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj1\obj\Debug\Sj1.FrmMian.resources
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj1\obj\Debug\Sj1.Properties.Resources.resources
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj1\obj\Debug\Sj1.csproj.GenerateResource.Cache
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj1\obj\Debug\Sj1.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day07\Sj1\obj\Debug\Sj1.pdb

@@ -1,0 +1,11 @@
+c:\users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\bin\Debug\MyMoShou.exe.config
+C:\Users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\bin\Debug\MyMoShou.exe
+C:\Users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\bin\Debug\MyMoShou.pdb
+C:\Users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\obj\Debug\MyMoShou.csprojResolveAssemblyReference.cache
+C:\Users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\obj\Debug\MyMoShou.FrmLogin.resources
+C:\Users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\obj\Debug\MyMoShou.Properties.Resources.resources
+C:\Users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\obj\Debug\MyMoShou.csproj.GenerateResource.Cache
+C:\Users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\obj\Debug\MyMoShou.exe
+C:\Users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\obj\Debug\MyMoShou.pdb
+C:\Users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\obj\Debug\MyMoShou.FrmRegist.resources
+C:\Users\wumengjie\documents\visual studio 2012\Projects\MyMoShou\MyMoShou\obj\Debug\MyMoShou.FrmMain.resources

@@ -1,0 +1,9 @@
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\jd5\bin\Debug\jd5.exe.config
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\jd5\obj\Debug\jd5.csprojResolveAssemblyReference.cache
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\jd5\obj\Debug\jd5.Form1.resources
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\jd5\obj\Debug\jd5.Properties.Resources.resources
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\jd5\obj\Debug\jd5.csproj.GenerateResource.Cache
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\jd5\bin\Debug\jd5.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\jd5\bin\Debug\jd5.pdb
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\jd5\obj\Debug\jd5.exe
+C:\Users\wumengjie\Documents\Visual Studio 2012\Projects\Day06\jd5\obj\Debug\jd5.pdb
