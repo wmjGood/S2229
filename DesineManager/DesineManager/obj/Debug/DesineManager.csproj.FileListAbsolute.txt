@@ -1,0 +1,11 @@
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\bin\Debug\DesineManager.exe.config
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\bin\Debug\DesineManager.exe
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\bin\Debug\DesineManager.pdb
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\obj\Debug\DesineManager.csprojResolveAssemblyReference.cache
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\obj\Debug\DesineManager.FrmInsert.resources
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\obj\Debug\DesineManager.frmMain.resources
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\obj\Debug\DesineManager.Properties.Resources.resources
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\obj\Debug\DesineManager.csproj.GenerateResource.Cache
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\obj\Debug\DesineManager.exe
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\obj\Debug\DesineManager.pdb
+c:\users\wumengjie\documents\visual studio 2012\Projects\DesineManager\DesineManager\obj\Debug\DesineManager.FrmSelect.resources
